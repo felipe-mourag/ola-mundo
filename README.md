@@ -1,4 +1,4 @@
 # olá,mundo!
 primeiro repositório
 
-essa linha  fiz qaundo estava assistindo a aula
+essa linha  fiz quando estava assistindo a aula
